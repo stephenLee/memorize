@@ -12,7 +12,8 @@ body {
 	-o-background-size: cover;
 	background-size: cover;
 	*/
-	background: #33CC00;
+       /*	background: #33CC00; */
+    background: #1557D1;
 }
 a {
     color: #205aaf;
