@@ -6,14 +6,7 @@ body {
     padding: 0;
     color: #343434;
     font: 13px arial;
-/*	background: url(../img/body-bg.jpg) no-repeat center center fixed; 
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-	*/
-       /*	background: #33CC00; */
-    background: #49A835;
+	background: url(../img/background.png) no-repeat scroll center center #0D7BD5; 
 }
 a {
     color: #205aaf;
