@@ -841,7 +841,7 @@ if (!window.requestAnimationFrame) {
    * slow down one month
    */
 
-  var countdownTo = new Date(2012,6,6).getTime();
+  var countdownTo = new Date(2013,11,14).getTime();
 
   /**
    * Buckets for the Digits.
