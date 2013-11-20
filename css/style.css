@@ -5,8 +5,9 @@ body {
     margin: 0;
     padding: 0;
     font: 13px arial;
-	background: url(../img/background.png) no-repeat scroll center center #0D7BD5; 
+    background: url(../img/background.png) no-repeat scroll center center #0D7BD5; 
 }
+
 a {
     color: #205aaf;
     text-decoration: none;
@@ -69,10 +70,11 @@ div.screen {
     background: transparent url(../img/gradient.png) no-repeat 50% -100px;
     z-index: 1;
     height: 1236px;
-}
+} 
+
 body.degrade #gradient {
     display: none;
-}
+} 
 #countdown h3 a,
 #header h3 a {
     color: #898989;
